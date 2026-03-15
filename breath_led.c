@@ -8,7 +8,7 @@ int main() {
     const char *path = "/sys/class/leds/red:status/brightness";
     int brightness = 0;
     int direction = 1; // 1 代表变亮，-1 代表变暗
-
+    //测试一下学习成果
     printf("Starting Breath LED... Press Ctrl+C to stop.\n");
 
     while(1) {
