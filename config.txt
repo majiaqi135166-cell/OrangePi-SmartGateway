@@ -1,0 +1,2 @@
+limit_hot=55.0
+limit_warm=40.0
